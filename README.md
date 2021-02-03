@@ -1,2 +1,2 @@
 # weather-api-practing
-live link: 
+live link: https://faysalshuvo.github.io/weather-api-practing/
